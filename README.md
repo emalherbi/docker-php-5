@@ -2,6 +2,8 @@
 
 Docker && Apache && Php && Mysql (mysql | pdo_mysql) && Mssql (mssql | pdo_dblib | freetds) && PhpMyAdmin
 
+# Test
+
 ## Requirements
 
 * [Docker](https://www.docker.com/)
