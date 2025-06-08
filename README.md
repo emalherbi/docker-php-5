@@ -1,4 +1,4 @@
-# docker-php
+# docker-php-5
 
 Docker && Apache && Php && Mysql (mysql | pdo_mysql) && Mssql (mssql | pdo_dblib | freetds) && PhpMyAdmin
 
