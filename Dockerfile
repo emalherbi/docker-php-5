@@ -1,5 +1,4 @@
 FROM php:5.6-apache
-MAINTAINER Eduardo Malherbi <emalherbi@gmail.com>
 
 # utils
 RUN apt-get update && \
